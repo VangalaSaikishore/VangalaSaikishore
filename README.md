@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Development Projects<br>Software development engineer<br>Various new technologies<br>React Js, Node Js, Javascript<br>Web Related Topics<br>An ostrich's eye is bigger than its brain.
+🔭 I’m currently working on Web Development Projects<br>👯 I’m looking to collaborate on Software development engineer<br>🤝 I’m looking for help with Software development engineer<br>🌱 I’m currently learning React Js, Node Js, Javascript<br>💬 Ask me about Web Related Topics<br>⚡ Fun fact An ostrich's eye is bigger than its brain.
 
 
 ## 🌐 Socials:
