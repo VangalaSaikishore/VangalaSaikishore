@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/saikishore-vangala-6117091aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saikishore-vangala-6117091aa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saikishore-vangala-6117091aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saikishore-vangala-6117091aa/" height="30" width="40" /></a>
 <a href="https://fb.com/vangalasaikishore@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vangalasaikishore@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/saikishore_vangala_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikishore_vangala_21" height="30" width="40" /></a>
 </p>
